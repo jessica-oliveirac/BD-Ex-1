@@ -1,4 +1,4 @@
-# BD-Ex-1
+# Banco de Dados - Curso em Vídeo
 Lista de Exercícios 
 *Ex1
 *Ex2
